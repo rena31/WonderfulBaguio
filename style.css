@@ -181,7 +181,11 @@ body, html {
 
   .about-content {
     padding: 10px;
-    max-width: 180px;
+    max-width: 250px;
+    text-align: center;
 
   }
+  .about {
+  position: fixed;
+}
 }
