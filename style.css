@@ -181,5 +181,6 @@ body, html {
 
   .about-content {
     padding: 5px;
+    max-width: 150px;
 }
 }
