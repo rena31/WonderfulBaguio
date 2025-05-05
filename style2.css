@@ -20,7 +20,7 @@ body, html {
 
 .nav-links {
   display: flex;
-  gap: 225px;
+  gap: 210px;
 }
 
 .nav-item a {
