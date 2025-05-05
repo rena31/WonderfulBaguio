@@ -181,25 +181,6 @@ body, html {
 
   .about-content {
     width: 90%;
-    padding: 20px;
-    margin: 0 auto;
-    top: 10%;
-    left: 5%;
-    border-radius: 10px;
-    overflow-y: auto;
-    max-height: 80vh;
-
-  }
-  .about-content h2 {
-  font-size: 1.5rem;
+    padding: 10px;
 }
-  .about-content p{
-    font-size: 1rem;
-    line-height: 1.6;
-  }
-  .close-btn {
-    top: 10px;
-    right: 10px;
-    font-size: 1.5rem;
-  }
 }
